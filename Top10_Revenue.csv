@@ -1,0 +1,11 @@
+Date,User_ID,Course,Category,Payment_Method,Payment_Status,Amount,Discount,Revenue,City
+2026-07-12,U087,Excel,Intermediate,UPI,Success,6966,200,6766,Pune
+2026-07-25,U050,Power BI,Advanced,Net Banking,Success,6818,200,6618,Mumbai
+2026-07-28,U034,SQL,Beginner,Wallet,Success,6715,100,6615,Noida
+2026-07-29,U085,Excel,Beginner,UPI,Success,6550,0,6550,Noida
+2026-07-18,U086,Excel,Advanced,Card,Success,6999,500,6499,Kolkata
+2026-07-03,U018,Power BI,Beginner,Card,Success,6596,100,6496,Noida
+2026-07-02,U055,Excel,Beginner,UPI,Success,6412,300,6112,Kolkata
+2026-07-15,U017,Excel,Beginner,Net Banking,Success,6289,200,6089,Mumbai
+2026-07-14,U010,SQL,Beginner,Wallet,Success,5903,0,5903,Kolkata
+2026-07-13,U026,Data Analytics,Beginner,UPI,Success,5945,100,5845,Patna

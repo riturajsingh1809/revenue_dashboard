@@ -1,0 +1,101 @@
+Date,User_ID,Course,Category,Payment_Method,Payment_Status,Amount,Discount,Revenue,City
+2026-07-04,U001,Power BI,Advanced,Net Banking,Failed,6116,300,0,Jaipur
+2026-07-27,U002,SQL,Beginner,Card,Failed,3034,0,0,Lucknow
+2026-07-11,U003,Power BI,Advanced,Wallet,Success,2965,0,2965,Patna
+2026-07-18,U004,SQL,Intermediate,Net Banking,Pending,6747,300,0,Mumbai
+2026-07-16,U005,Excel,Intermediate,Wallet,Failed,2810,0,0,Kolkata
+2026-07-22,U006,Python,Intermediate,Net Banking,Failed,3940,100,0,Mumbai
+2026-07-28,U007,Power BI,Advanced,Net Banking,Failed,3306,200,0,Pune
+2026-07-02,U008,Power BI,Advanced,UPI,Success,3931,300,3631,Noida
+2026-07-04,U009,SQL,Advanced,Net Banking,Success,5835,0,5835,Pune
+2026-07-14,U010,SQL,Beginner,Wallet,Success,5903,0,5903,Kolkata
+2026-07-01,U011,Excel,Beginner,Net Banking,Success,2555,200,2355,Delhi
+2026-07-07,U012,Data Analytics,Intermediate,Net Banking,Failed,6042,0,0,Jaipur
+2026-07-16,U013,Power BI,Beginner,Card,Failed,6811,500,0,Delhi
+2026-07-30,U014,SQL,Intermediate,Net Banking,Success,3632,200,3432,Delhi
+2026-07-19,U015,Excel,Beginner,Wallet,Success,4009,200,3809,Kolkata
+2026-07-27,U016,Power BI,Intermediate,Card,Success,3253,100,3153,Pune
+2026-07-15,U017,Excel,Beginner,Net Banking,Success,6289,200,6089,Mumbai
+2026-07-03,U018,Power BI,Beginner,Card,Success,6596,100,6496,Noida
+2026-07-16,U019,SQL,Beginner,Net Banking,Success,2511,300,2211,Mumbai
+2026-07-22,U020,Power BI,Advanced,Card,Success,3520,500,3020,Kolkata
+2026-07-17,U021,Excel,Beginner,UPI,Pending,4565,200,0,Delhi
+2026-07-01,U022,Python,Advanced,Wallet,Success,4889,500,4389,Lucknow
+2026-07-03,U023,Power BI,Intermediate,Wallet,Failed,3336,200,0,Delhi
+2026-07-22,U024,Python,Intermediate,Card,Success,3858,200,3658,Kolkata
+2026-07-29,U025,Data Analytics,Intermediate,Wallet,Pending,5788,0,0,Pune
+2026-07-13,U026,Data Analytics,Beginner,UPI,Success,5945,100,5845,Patna
+2026-07-14,U027,SQL,Advanced,Wallet,Failed,6934,200,0,Pune
+2026-07-09,U028,Power BI,Intermediate,Wallet,Pending,3008,200,0,Mumbai
+2026-07-25,U029,Python,Intermediate,Wallet,Success,3726,100,3626,Jaipur
+2026-07-30,U030,Excel,Intermediate,Card,Success,5109,100,5009,Kolkata
+2026-07-07,U031,SQL,Beginner,Net Banking,Success,4289,500,3789,Patna
+2026-07-29,U032,SQL,Intermediate,UPI,Success,3597,500,3097,Kolkata
+2026-07-03,U033,Power BI,Beginner,Net Banking,Failed,6831,100,0,Patna
+2026-07-28,U034,SQL,Beginner,Wallet,Success,6715,100,6615,Noida
+2026-07-07,U035,Data Analytics,Advanced,UPI,Success,3993,500,3493,Noida
+2026-07-10,U036,Power BI,Advanced,Card,Success,3178,0,3178,Lucknow
+2026-07-09,U037,SQL,Intermediate,Wallet,Failed,2791,0,0,Patna
+2026-07-18,U038,Excel,Intermediate,Card,Failed,3721,300,0,Lucknow
+2026-07-18,U039,Python,Beginner,Wallet,Success,4321,200,4121,Lucknow
+2026-07-06,U040,SQL,Intermediate,UPI,Failed,4625,0,0,Patna
+2026-07-02,U041,Power BI,Intermediate,Wallet,Failed,3346,300,0,Mumbai
+2026-07-13,U042,SQL,Advanced,Card,Success,4199,0,4199,Patna
+2026-07-04,U043,Data Analytics,Advanced,Net Banking,Pending,6420,0,0,Patna
+2026-07-12,U044,Excel,Intermediate,Wallet,Success,4800,100,4700,Delhi
+2026-07-16,U045,Data Analytics,Advanced,Net Banking,Success,3615,300,3315,Kolkata
+2026-07-14,U046,Power BI,Intermediate,Card,Pending,4134,500,0,Lucknow
+2026-07-23,U047,Excel,Intermediate,Wallet,Failed,3713,0,0,Patna
+2026-07-08,U048,Excel,Beginner,Wallet,Success,4469,500,3969,Delhi
+2026-07-15,U049,Excel,Intermediate,Net Banking,Success,3668,500,3168,Kolkata
+2026-07-25,U050,Power BI,Advanced,Net Banking,Success,6818,200,6618,Mumbai
+2026-07-23,U051,Data Analytics,Intermediate,Wallet,Pending,4250,300,0,Mumbai
+2026-07-24,U052,SQL,Intermediate,Net Banking,Pending,6034,500,0,Lucknow
+2026-07-02,U053,Power BI,Advanced,UPI,Success,3338,100,3238,Mumbai
+2026-07-08,U054,Data Analytics,Advanced,Wallet,Success,4382,0,4382,Pune
+2026-07-02,U055,Excel,Beginner,UPI,Success,6412,300,6112,Kolkata
+2026-07-23,U056,Power BI,Advanced,UPI,Success,4357,500,3857,Pune
+2026-07-06,U057,Power BI,Advanced,Wallet,Success,2846,200,2646,Jaipur
+2026-07-08,U058,Excel,Advanced,Card,Pending,6192,100,0,Pune
+2026-07-06,U059,Power BI,Intermediate,Wallet,Success,4012,0,4012,Jaipur
+2026-07-17,U060,SQL,Beginner,UPI,Success,3036,0,3036,Mumbai
+2026-07-07,U061,Data Analytics,Beginner,UPI,Success,4463,300,4163,Jaipur
+2026-07-18,U062,SQL,Advanced,Card,Pending,2628,500,0,Lucknow
+2026-07-04,U063,Data Analytics,Beginner,Card,Success,2527,300,2227,Noida
+2026-07-21,U064,Power BI,Beginner,UPI,Pending,4433,200,0,Noida
+2026-07-26,U065,Power BI,Advanced,UPI,Pending,4833,500,0,Noida
+2026-07-12,U066,Excel,Beginner,Card,Success,5827,300,5527,Pune
+2026-07-15,U067,Data Analytics,Intermediate,Net Banking,Failed,3219,500,0,Pune
+2026-07-18,U068,SQL,Advanced,Card,Failed,3670,200,0,Delhi
+2026-07-26,U069,Data Analytics,Beginner,Wallet,Success,4188,0,4188,Patna
+2026-07-02,U070,Data Analytics,Beginner,UPI,Success,5325,300,5025,Lucknow
+2026-07-22,U071,Excel,Beginner,UPI,Success,6063,300,5763,Jaipur
+2026-07-17,U072,Python,Advanced,Wallet,Failed,2685,100,0,Jaipur
+2026-07-23,U073,Excel,Intermediate,Net Banking,Success,4250,0,4250,Kolkata
+2026-07-10,U074,SQL,Beginner,Card,Success,5397,100,5297,Noida
+2026-07-04,U075,SQL,Intermediate,Net Banking,Pending,5346,200,0,Jaipur
+2026-07-02,U076,Power BI,Intermediate,Wallet,Failed,6044,0,0,Patna
+2026-07-24,U077,Excel,Advanced,Net Banking,Pending,6285,300,0,Delhi
+2026-07-15,U078,Data Analytics,Intermediate,UPI,Success,3521,500,3021,Lucknow
+2026-07-19,U079,Excel,Intermediate,Card,Pending,6514,200,0,Lucknow
+2026-07-29,U080,Python,Advanced,UPI,Success,3695,500,3195,Delhi
+2026-07-18,U081,SQL,Advanced,Net Banking,Pending,6596,0,0,Kolkata
+2026-07-09,U082,Python,Advanced,Card,Success,5427,0,5427,Mumbai
+2026-07-05,U083,Data Analytics,Beginner,Wallet,Failed,5918,300,0,Jaipur
+2026-07-19,U084,Python,Advanced,Net Banking,Failed,6960,0,0,Pune
+2026-07-29,U085,Excel,Beginner,UPI,Success,6550,0,6550,Noida
+2026-07-18,U086,Excel,Advanced,Card,Success,6999,500,6499,Kolkata
+2026-07-12,U087,Excel,Intermediate,UPI,Success,6966,200,6766,Pune
+2026-07-17,U088,Data Analytics,Advanced,Card,Success,4673,100,4573,Jaipur
+2026-07-10,U089,Data Analytics,Intermediate,Card,Pending,6953,200,0,Noida
+2026-07-18,U090,SQL,Intermediate,Net Banking,Pending,5836,300,0,Lucknow
+2026-07-27,U091,Excel,Beginner,UPI,Success,3341,0,3341,Patna
+2026-07-01,U092,Data Analytics,Beginner,UPI,Success,5123,200,4923,Noida
+2026-07-01,U093,Excel,Beginner,Card,Success,5828,500,5328,Jaipur
+2026-07-20,U094,Excel,Advanced,Card,Success,6325,500,5825,Kolkata
+2026-07-11,U095,Excel,Beginner,Card,Failed,4634,500,0,Kolkata
+2026-07-07,U096,SQL,Intermediate,Net Banking,Success,2536,100,2436,Pune
+2026-07-10,U097,Data Analytics,Advanced,Net Banking,Pending,2700,0,0,Mumbai
+2026-07-13,U098,Excel,Advanced,Card,Failed,3070,100,0,Delhi
+2026-07-25,U099,Power BI,Intermediate,UPI,Success,4658,200,4458,Lucknow
+2026-07-02,U100,Excel,Beginner,Card,Failed,6150,500,0,Delhi
